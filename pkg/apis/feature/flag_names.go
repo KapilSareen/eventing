@@ -30,5 +30,5 @@ const (
 	AuthorizationDefaultMode   = "default-authorization-mode"
 	OIDCDiscoveryBaseURL       = "oidc-discovery-base-url"
 	RequestReplyDefaultTimeout = "requestreply-default-timeout"
-	JWKSURI					   = "jwks-uri"
+	JWKSURI					   = "oidc-jwks-uri"
 )
